@@ -23,6 +23,12 @@ main {
     min-height: 800px;
 }
 
+.quote {
+    color: blanchedalmond;
+    font-style: italic;
+    font-weight: 300;
+}
+
 p {
     font-size: 18px;
     color: blanchedalmond;
@@ -38,12 +44,12 @@ a {
 
 
 ul li a:link {
-    color: #4e5551;
+    color: #86978d;
   }
   
 
 ul li a:visited {
-    color: #4e5551;
+    color: #86978d;
   }
 
 
@@ -157,6 +163,7 @@ ul {
 }
 
 .read {
+    padding-top: 20px;
     background-color: #ac9e9a;
 }
 
